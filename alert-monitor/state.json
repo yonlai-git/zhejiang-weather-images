@@ -7,8 +7,8 @@
     "fp:330803|高温|orange",
     "fp:3412|暴雨|orange",
     "fp:341222|高温|orange",
-    "fp:341002|强对流|orange",
     "fp:350623|暴雨|orange",
+    "fp:341002|强对流|orange",
     "fp:330281|高温|orange",
     "fp:350405|高温|orange",
     "fp:341503|暴雨|red",
@@ -584,6 +584,6 @@
     "fp:321324|高温|orange",
     "fp:340603|高温|orange"
   ],
-  "last_run": "2026-08-17T20:00:23.862306+08:00",
-  "last_source": "jsqx+zj121+ahqx+fjqx"
+  "last_run": "2026-08-17T20:00:31.263161+08:00",
+  "last_source": "zj121+ahqx+fjqx"
 }
