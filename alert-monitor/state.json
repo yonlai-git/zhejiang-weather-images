@@ -32,8 +32,8 @@
     "fp:330329|台风|yellow",
     "fp:310228|大风|orange",
     "fp:320481|高温|orange",
-    "fp:330624|暴雨|orange",
     "fp:320481|暴雨|orange",
+    "fp:330624|暴雨|orange",
     "fp:331082|暴雨|orange",
     "fp:330225|冰雹|orange",
     "fp:330112|台风|red",
@@ -614,6 +614,6 @@
     "33042141600000_20260810043430",
     "fp:330683|台风|orange"
   ],
-  "last_run": "2026-10-04T06:00:26.842460+08:00",
-  "last_source": "jsqx+zj121+ahqx+fjqx"
+  "last_run": "2026-10-04T06:00:34.175765+08:00",
+  "last_source": "jsqx+zj121+ahqx"
 }
